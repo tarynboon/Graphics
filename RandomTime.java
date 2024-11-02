@@ -1,6 +1,5 @@
 /*
 Taryn Boonpongmanee
-10.7.21
 This program draws a random time on an analog clock
  */
 
