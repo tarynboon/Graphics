@@ -1,13 +1,4 @@
-/*
- * File: Target.java
- * Name: 
- * Section Leader: 
- * -----------------
- * This file is the starter file for the Target problem.
- */
-
 //Taryn Boonpongmanee
-//9.29.21
 //Target
 
 import acm.graphics.*;
